@@ -1,17 +1,4 @@
-# 全民K歌获取歌曲信息
-
-## 安装前
-
-获取歌曲的shareid 例如https://node.kg.qq.com/play?s=O58-ECO1_Hvq7Omg&g_f=personal的shareid就是O58-ECO1_Hvq7Omg
-
-## 安装
-
-    composer require chenjiesuper/kg
-
-
-## 使用说明
-
-```php
+<?php
 require_once __DIR__ . '/vendor/autoload.php';
 use Jay\Kg\Music;
 $music = new Music();

@@ -2,7 +2,7 @@
 
 ## 安装前
 
-获取歌曲的shareid 例如https://node.kg.qq.com/play?s=O58-ECO1_Hvq7Omg&g_f=personal的shareid就是O58-ECO1_Hvq7Omg
+获取歌曲的shareid 例如 https://node.kg.qq.com/play?s=O58-ECO1_Hvq7Omg&g_f=personal 的shareid就是O58-ECO1_Hvq7Omg
 
 ## 安装
 

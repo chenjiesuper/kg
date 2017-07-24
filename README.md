@@ -21,7 +21,7 @@ $more = $music->getMore(array('O58-ECO1_Hvq7Omg', 'O58-ECO1_dhz6OQZ'));
 var_dump($more);
 /*
  * 获取单首歌曲结果如下，我们重点关注playurl 这是真实的播放地址，其他信息应该也是一目了然吧
- * 附：多首歌曲则返回二维数组
+ * 附：多首歌曲则返回二维数组 
 array(5) {
     ["code"]=>
   int(0)
